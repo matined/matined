@@ -1,7 +1,3 @@
-<a href="https://www.linkedin.com/in/mateusznedzi/">
-  <img style="float: right;" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> 
-</a>
-
 ## <p align="center">Hi, I'm Mateusz 👋 </p>
 
 <p>I'm interested in machine learning and automation. That's why I'm an MLOps engineer. I also study computer science at Warsaw University of Technology and have become a vice president of a Data Science Student Club 🎉 Reach me via LinkedIn!
