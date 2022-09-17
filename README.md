@@ -17,6 +17,7 @@
 ### 🔧 Tools:
 
 <img src="img/kubernetes.svg" height=30px> **kubernetes** &nbsp;&nbsp;&nbsp;
-<img src="img/terraform.svg" height=30px> **terraform** &nbsp;&nbsp;&nbsp;
+<img src="img/istio.svg" height=30px> **Istio** &nbsp;&nbsp;&nbsp;
 <img src="img/docker.svg" height=30px> **docker** &nbsp;&nbsp;&nbsp;
+<img src="img/terraform.svg" height=30px> **terraform** &nbsp;&nbsp;&nbsp;
 <img src="img/git.svg" height=30px> **git**
