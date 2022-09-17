@@ -5,19 +5,19 @@
   
 ### 🗣️ Languages:
 
-<img src="img/python.svg" height=30px> **python** &nbsp;&nbsp;&nbsp;
-<img src="img/bash.svg" height=30px> **bash** &nbsp;&nbsp;&nbsp;
-<img src="img/powershell.svg" height=30px> **powershell**
+<a href="https://www.python.org/">                        <img src="img/python.svg" height=30px>      **python**     </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.gnu.org/software/bash/">             <img src="img/bash.svg" height=30px>        **bash**       </a> &nbsp;&nbsp;&nbsp;
+<a href="https://learn.microsoft.com/en-us/powershell/">  <img src="img/powershell.svg" height=30px>  **powershell** </a>
 
 ### ☁️ Clouds:
 
-<img src="img/azure.svg" height=30px> **Azure** &nbsp;&nbsp;&nbsp;
-<img src="img/gcp.svg" height=30px> **Google**
+<a href="https://azure.microsoft.com/en-us/"> <img src="img/azure.svg" height=30px> **Azure**   </a> &nbsp;&nbsp;&nbsp;
+<a href="https://cloud.google.com/">          <img src="img/gcp.svg" height=30px>   **Google**  </a>
 
 ### 🔧 Tools:
 
-<img src="img/kubernetes.svg" height=30px> **kubernetes** &nbsp;&nbsp;&nbsp;
-<img src="img/istio.svg" height=30px> **Istio** &nbsp;&nbsp;&nbsp;
-<img src="img/docker.svg" height=30px> **docker** &nbsp;&nbsp;&nbsp;
-<img src="img/terraform.svg" height=30px> **terraform** &nbsp;&nbsp;&nbsp;
-<img src="img/git.svg" height=30px> **git**
+<a href="https://kubernetes.io/">     <img src="img/kubernetes.svg" height=30px>  **kubernetes**  </a> &nbsp;&nbsp;&nbsp;
+<a href="https://istio.io/">          <img src="img/istio.svg" height=30px>       **Istio**       </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.docker.com/">    <img src="img/docker.svg" height=30px>      **docker**      </a> &nbsp;&nbsp;&nbsp;
+<a href="https://www.terraform.io/">  <img src="img/terraform.svg" height=30px>   **terraform**   </a> &nbsp;&nbsp;&nbsp;
+<a href="https://git-scm.com/">       <img src="img/git.svg" height=30px>         **git**         </a>
