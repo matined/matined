@@ -1,6 +1,6 @@
 ## <p align="center">Hi, I'm Mateusz 👋 </p>
 
-<p>I'm interested in machine learning and automation. That's why I'm an MLOps engineer. I also study computer science at Warsaw University of Technology and have become a vice president of a Data Science Student Club 🎉 Reach me via LinkedIn!
+<p>I'm interested in machine learning and automation. That's why I'm an <em>MLOps engineer</em>. I also study computer science at <em>Warsaw University of Technology</em> and have become a <em>vice president</em> of a Data Science Student Club 🎉 Reach me via LinkedIn!
 </p>
   
 ### Languages:
