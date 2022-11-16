@@ -20,4 +20,5 @@
 <a href="https://istio.io/">          <img src="img/istio.svg" height=30px>       **Istio**       </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.docker.com/">    <img src="img/docker.svg" height=30px>      **docker**      </a> &nbsp;&nbsp;&nbsp;
 <a href="https://www.terraform.io/">  <img src="img/terraform.svg" height=30px>   **terraform**   </a> &nbsp;&nbsp;&nbsp;
+<a href="https://mlflow.org/">        <img src="img/mlflow.png" height=30px>      **mlflow**      </a> &nbsp;&nbsp;&nbsp;
 <a href="https://git-scm.com/">       <img src="img/git.svg" height=30px>         **git**         </a>
