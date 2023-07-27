@@ -1,6 +1,6 @@
 ## <p align="center">Hi, I'm Mateusz 👋 </p>
 
-<p>I'm into ML and automation - <b>MLOps!</b> I also a Computer Science Student at the <em>Warsaw University of Technology</em> and a <em>vice president</em> of a Data Science Student Club 🎉 Reach me via <a href="https://www.linkedin.com/in/mateusznedzi/">LinkedIn</a>!
+<p>I'm into ML and automation - <b>MLOps!</b> I'm also a Computer Science Student at the <em>Warsaw University of Technology</em> and a <em>vice president</em> of a Data Science Student Club 🎉 Reach me via <a href="https://www.linkedin.com/in/mateusznedzi/">LinkedIn</a>!
 </p>
 
 ---
