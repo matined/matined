@@ -1,13 +1,13 @@
-## <p align="center">Hi, I'm Mateusz 👋 </p>
+## <p align="center">Hi, I'm Mateusz 👋 </p> <a href="https://www.linkedin.com/in/mateusznedzi/"><img alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin"></a>
 
-<p>I'm into ML and automation - <b>MLOps!</b> I'm also a Computer Science Student at the Warsaw University of Technology and a president of the Data Science Student Club 🎉 Reach me via <a href="https://www.linkedin.com/in/mateusznedzi/">LinkedIn</a>!
-</p>
 
----
+### Some of the tech I use
 
 <p float="left">
   <img height=30 alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img height=30 alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain">
   <img height=30 alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+  <img height=30 alt="next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs" />
   <img height=30 alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
   <img height=30 alt="Kubernetes" src="https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white" />
   <img height=30 alt="Helm" src="https://img.shields.io/badge/helm-0F1689?style=for-the-badge&logo=helm&logoColor=white">
