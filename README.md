@@ -23,12 +23,3 @@
   <img height=30 alt="Azure Pipelines" src="https://img.shields.io/badge/azure%20pipelines-2560E0?style=for-the-badge&logo=azurepipelines&logoColor=white">
   <img height=30 alt="GitHub Actions" src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
-
----
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=matined&theme=dark&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matined&layout=compact&theme=dark" />
-</a>
