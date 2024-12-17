@@ -5,6 +5,10 @@
 
 <p float="left">
   <img height=30 alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img height=30 alt="typescript" src="https://img.shields.io/badge/typescript-ffffff?style=for-the-badge&logo=typescript&logoColor=ffffff&color=3178C6" />
+  <img height=30 alt="claude" src="https://img.shields.io/badge/claude-ffffff?style=for-the-badge&logo=claude&logoColor=ffffff&color=D97757" />
+  <img height=30 alt="openai" src="https://img.shields.io/badge/openai-ffffff?style=for-the-badge&logo=openai&logoColor=ffffff&color=412991" />
+  <img height=30 alt="langfuse" src="https://img.shields.io/badge/langfuse-ffffff?style=for-the-badge&color=e01211" />
   <img height=30 alt="LangChain" src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain">
   <img height=30 alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white" />
   <img height=30 alt="next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs" />
